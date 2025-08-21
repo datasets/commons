@@ -67,3 +67,4 @@ IMF World Economic Outlook (WEO) database. The source database is made of annual
 * [Brent and WTI Spot Prices](https://datahub.io/core/oil-prices) - Europe Brent and WTI (Western Texas Intermediate) Spot Prices (Annual/ Monthly/ Weekly/ Daily).
 * [Natural gas prices](https://datahub.io/core/natural-gas) - Time series of major Natural Gas Prices including US Henry Hub.
 * [Gold Prices](https://datahub.io/core/gold-prices) - Monthly gold prices since 1950 in USD (London market).
+* [Stock Prices](https://financialdata.net/documentation#stock_prices) - Historical end-of-day stock prices for 10.000+ trading symbols (NASDAQ, NYSE, CBOE)
