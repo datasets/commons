@@ -1,9 +1,9 @@
 ---
 title: Football Data
 description: A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
-keywords: football data and API, world cup, stadium data, football apps
+keywords: football data and API, world cup, stadium data, football apps, UEFA coefficients
 date: 2017-12-13
-modified: 2024-12-09
+modified: 2026-02-08
 image: football.png
 ---
 
@@ -48,6 +48,12 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
 
+## UEFA Coefficients
+
+- [Kassiesa.net UEFA Database](https://kassiesa.net/uefa/) - all match results and calculated coefficients of European Cup football since 1955
+- [Football-Coefficient.eu](https://www.football-coefficient.eu/) - live UEFA coefficient updates with results, fixtures, standings, and prize money
+- [Euro Coefficients](https://eurocoef.com) - interactive UEFA country and club coefficient rankings tracker covering 55 countries from 1959 to present, with historical trends,
+  comparisons, and Champions League spot allocation data
 
 # Stadium Datasets
 
