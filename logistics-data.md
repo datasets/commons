@@ -4,7 +4,6 @@ description: Ready-to-use logistics datasets - explore, download and use in your
 keywords: Logistics Data, Reference Data
 date: 2018-06-06
 modified: 2024-10-21
-image: logistics-data.png
 ---
 
 Summary list of datasets available on DataHub that are related to Logistics.

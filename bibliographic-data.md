@@ -4,7 +4,6 @@ description: Existing databases or services providing substantial bibliographic 
 keywords: DBLP data
 date: 2018-07-17
 modified: 2018-07-17
-image: bibliographic-data.png
 ---
 
 ## The DBLP Computer Science Bibliography

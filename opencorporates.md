@@ -4,7 +4,6 @@ description: Open Database of corporate entities.
 keywords: access-nobulk, corporations, database, ecommerce, format-rdf, government, lod, lodcloud-diagram-2011-09-19, no-deref-vocab, opendatachallenge, published-by-third-party, scraped, size.xlarge
 date: 2018-07-17
 modified: 2018-07-17
-image: opencorporates.png
 ---
 
 Open Database of corporate entities. As of 2011-04-09 has information on 7,841,828 companies from around the world. Jurisdictions covered include:
