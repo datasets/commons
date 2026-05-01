@@ -66,3 +66,7 @@ IMF World Economic Outlook (WEO) database. The source database is made of annual
 * [Brent and WTI Spot Prices](https://datahub.io/core/oil-prices) - Europe Brent and WTI (Western Texas Intermediate) Spot Prices (Annual/ Monthly/ Weekly/ Daily).
 * [Natural gas prices](https://datahub.io/core/natural-gas) - Time series of major Natural Gas Prices including US Henry Hub.
 * [Gold Prices](https://datahub.io/core/gold-prices) - Monthly gold prices since 1950 in USD (London market).
+
+## Aggregated Economic Data Platforms
+
+* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic, demographic, health, and environmental indicators for 218 countries (1960–2026). Aggregates data from IMF, World Bank, WHO, FRED, and UN. Free REST API available. Interactive charts, rankings, and country comparisons.
