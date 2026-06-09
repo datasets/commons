@@ -27,6 +27,7 @@ _Where's the open football data?_
 
 ## World Cup
 
+- [World Cup 2026 Tour Public API](https://ay-worldcup2026.zeabur.app/developers) - free JSON API for all 104 World Cup 2026 fixtures with local kickoff-time conversion, match links, share-card links, and an OpenAPI spec
 - [openfootball/world-cup :octocat:](https://github.com/openfootball/world-cup)
 - [lsv/fifa-worldcup-2018 :octocat:](https://github.com/lsv/fifa-worldcup-2018) - FIFA Worldcup 2018 - json data (The data file will be updated within a hour after a match is over)
 - [kidehen/worldcup2014 :octocat:](https://github.com/kidehen/worldcup2014) - World cup data
