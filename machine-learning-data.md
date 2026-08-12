@@ -3,7 +3,7 @@ title: Machine Learning / Statistical Data
 description: Examples of machine learning datasets.
 keywords: machine learning datasets, examples of ml data
 date: 2018-06-06
-modified: 2018-06-06
+modified: 2026-08-12
 ---
 
 Machine learning is used as a general term for computational data analysis: using data to makes inferences and predictions. Interpreted broadly it includes computational statistics, data analytics, data mining and a good portion of data science.
@@ -25,6 +25,10 @@ Machine learning algorithms are often categorized as supervised or unsupervised 
 There are a variety of machine-learning datasets on the DataHub under the @machine-learning account: https://datahub.io/machine-learning
 
 * Seismic Bumps: https://datahub.io/machine-learning/seismic-bumps. This is a classification problem. The data describe the problem of high energy (higher than 10^4 J) seismic bumps forecasting in a coal mine. Data come from two of longwalls located in a Polish coal mine.
+
+## Historical public draw-result data
+
+* [Philippines PCSO historical draw results (2022–2026)](https://lottolensph.com/research/pcso-results-data-coverage) — a fixed CC BY 4.0 snapshot of 13,457 draw rows for nine Philippine Charity Sweepstakes Office games. It includes row-level source URLs, documented field definitions, a [Frictionless Data Package](https://raw.githubusercontent.com/remo65588-boop/lottolens-ph-public-data/v2.0.1/datapackage.json), and an immutable [CSV snapshot](https://raw.githubusercontent.com/remo65588-boop/lottolens-ph-public-data/v2.0.1/data/verified-pcso-draw-results-snapshot.csv). Suitable for reproducible descriptive, time-series, and data-quality analysis; historical draws do not provide evidence that future lottery outcomes can be predicted.
 
 
 ## Existing collections
