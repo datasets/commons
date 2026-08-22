@@ -20,6 +20,6 @@ CIRP survey of the american freshmen conducted in 2014. Contains student’s opi
 
 ## College ROI
 
-Lifetime return-on-investment estimates for ~29,700 US bachelor's programs across ~3,392 colleges, combining FREOPP program-level ROI, IPEDS costs, and BEA regional price parities. 5 CSVs with datapackage.json, CC BY 4.0, Zenodo DOI 10.5281/zenodo.21351603:
+Lifetime return-on-investment estimates for ~30K US bachelor's programs across 1,775 institutions, combining FREOPP program-level ROI, IPEDS costs, and BEA regional price parities. 5 CSVs with datapackage.json, CC BY 4.0, Zenodo DOI 10.5281/zenodo.21351603:
 
 [thomasthinks/college-roi-data](https://github.com/thomasthinks/college-roi-data)
