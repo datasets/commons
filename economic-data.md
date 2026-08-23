@@ -1,9 +1,9 @@
 ---
 title: Economic Data
 description: A collection of economic indicators available on DataHub.
-keywords: economic statistics, examples of economic indicators, explore data by country, basic economic indicators, US economic data, UK economic data, World Bank data
+keywords: economic statistics, examples of economic indicators, explore data by country, basic economic indicators, US economic data, UK economic data, World Bank data, commodity prices, hard drive storage price index, USD per TB
 date: 2018-06-06
-modified: 2018-06-12
+modified: 2026-08-23
 ---
 
 On this page, we summarize all available economic data (or economic statistics) on DataHub. Users can find various examples of economic indicators or explore data by country. The page is curated and updated on regular basis so don't forget to bookmark it!
@@ -66,3 +66,4 @@ IMF World Economic Outlook (WEO) database. The source database is made of annual
 * [Brent and WTI Spot Prices](https://datahub.io/core/oil-prices) - Europe Brent and WTI (Western Texas Intermediate) Spot Prices (Annual/ Monthly/ Weekly/ Daily).
 * [Natural gas prices](https://datahub.io/core/natural-gas) - Time series of major Natural Gas Prices including US Henry Hub.
 * [Gold Prices](https://datahub.io/core/gold-prices) - Monthly gold prices since 1950 in USD (London market).
+* [HDD Storage Price Index](https://github.com/AdamDudley/hddhunt-price-index) - Daily cheapest and median price-per-TB (USD/TB) for new internal 3.5" SATA hard drives by capacity tier on Amazon US, as a growing time series. CC BY 4.0, with methodology and no-login [CSV](https://raw.githubusercontent.com/AdamDudley/hddhunt-price-index/main/price-index-latest.csv) and [JSONL time series](https://raw.githubusercontent.com/AdamDudley/hddhunt-price-index/main/price-index-timeseries.jsonl) downloads. Asking/listing prices, not transactions.
