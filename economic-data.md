@@ -1,9 +1,9 @@
 ---
 title: Economic Data
 description: A collection of economic indicators available on DataHub.
-keywords: economic statistics, examples of economic indicators, explore data by country, basic economic indicators, US economic data, UK economic data, World Bank data
+keywords: economic statistics, examples of economic indicators, explore data by country, basic economic indicators, US economic data, UK economic data, World Bank data, building permits, ADU, housing construction
 date: 2018-06-06
-modified: 2018-06-12
+modified: 2026-08-24
 ---
 
 On this page, we summarize all available economic data (or economic statistics) on DataHub. Users can find various examples of economic indicators or explore data by country. The page is curated and updated on regular basis so don't forget to bookmark it!
@@ -66,3 +66,7 @@ IMF World Economic Outlook (WEO) database. The source database is made of annual
 * [Brent and WTI Spot Prices](https://datahub.io/core/oil-prices) - Europe Brent and WTI (Western Texas Intermediate) Spot Prices (Annual/ Monthly/ Weekly/ Daily).
 * [Natural gas prices](https://datahub.io/core/natural-gas) - Time series of major Natural Gas Prices including US Henry Hub.
 * [Gold Prices](https://datahub.io/core/gold-prices) - Monthly gold prices since 1950 in USD (London market).
+
+## U.S. City Building Permit Timelines
+
+The [permittimelines dataset](https://github.com/asafichaki/permittimelines) measures how long residential garage-to-ADU conversion permits waited between application and issuance in Los Angeles, San Diego, San Francisco and Seattle: 64,427 records prepared from each city's official open-data portal, with application-year cohort completion rates and small-cell-suppressed aggregates. CC BY 4.0, with a reproducible build script, data package, and documented method rules and caveats. Also available as an R package and a [Hugging Face dataset](https://huggingface.co/datasets/RENOLOGY/permittimelines).
