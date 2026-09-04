@@ -3,7 +3,7 @@ title: Economic Data
 description: A collection of economic indicators available on DataHub.
 keywords: economic statistics, examples of economic indicators, explore data by country, basic economic indicators, US economic data, UK economic data, World Bank data
 date: 2018-06-06
-modified: 2018-06-12
+modified: 2026-09-04
 ---
 
 On this page, we summarize all available economic data (or economic statistics) on DataHub. Users can find various examples of economic indicators or explore data by country. The page is curated and updated on regular basis so don't forget to bookmark it!
@@ -61,6 +61,7 @@ IMF World Economic Outlook (WEO) database. The source database is made of annual
 * [Expenditure on Research and Development](https://datahub.io/core/expenditure-on-research-and-development)
 * [GINI Index](https://datahub.io/core/gini-index) - Historic values of the GINI Index.
 * [Global House Prices](https://datahub.io/core/house-prices-global) - Residential property price statistics from different countries.
+* [Marbella Beach Prices](https://github.com/shiftdylson1/marbella-price-data) - CC BY 4.0 seasonal census of sunbed, beach club and chiringuito prices in Marbella, Spain, taken from each venue's own published rates with per-venue provenance notes, plus [CSV and JSON downloads](https://marbellawire.com/data/sunbed-index.csv) and a [Zenodo DOI](https://doi.org/10.5281/zenodo.22094846). Published prices, not transactions.
 * [Population Growth Estimates and Projections](https://datahub.io/core/population-growth-estimates-and-projections)
 * [Purchasing Power Parity (PPP)](https://datahub.io/core/ppp)
 * [Brent and WTI Spot Prices](https://datahub.io/core/oil-prices) - Europe Brent and WTI (Western Texas Intermediate) Spot Prices (Annual/ Monthly/ Weekly/ Daily).
