@@ -59,3 +59,9 @@ Time series of major Natural Gas Prices including US Henry Hub. Data comes from 
 Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank:
 
 [core/gold-prices](https://datahub.io/core/gold-prices)
+
+## S&P 500 earnings announcement dates and times
+
+63,969 earnings announcements from 808 S&P 500 companies, from 2003-04-25 to 2026-09-01, with the time of day, derived from SEC EDGAR Form 8-K item 2.02 filings. 16 columns; every row carries its accession number and a direct link to the filing on sec.gov. CC0 1.0:
+
+[quant500trading/sp500-earnings-announcement-times](https://github.com/quant500trading/sp500-earnings-announcement-times)
