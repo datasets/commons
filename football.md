@@ -3,7 +3,7 @@ title: Football Data
 description: A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
 keywords: football data and API, world cup, stadium data, football apps, UEFA coefficients
 date: 2017-12-13
-modified: 2026-06-13
+modified: 2026-09-23
 ---
 
 *Contributions welcome. Anything missing? Send in a pull request. Thanks.*
@@ -40,6 +40,11 @@ _Where's the open football data?_
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
 
+
+## Club leagues (many countries)
+
+- [Football Match Results and Goal Timing, 91 Leagues (Zenodo, DOI 10.5281/zenodo.22295583)](https://doi.org/10.5281/zenodo.22295583) - 76,928 matches from 91 leagues in 41 countries (2022-2026), incl. lower divisions and four women's leagues, with half-time and full-time scores and the minute of every goal; CSV, CC BY 4.0
+- [Football Charts API](https://www.football-charts.com/developers) - free REST API for the same leagues: results, standings, fixtures and goal timing, updated daily; no key needed for the current season
 
 ## Misc
 
