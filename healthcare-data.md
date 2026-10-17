@@ -25,3 +25,8 @@ Pharmaceutical Drug Spending by countries with indicators such as a share of tot
 ## California Assisted Living Waiver Facilities
 
 The [California Assisted Living Waiver county tracker](https://californiacarecompass.com/data/california-alw-county-tracker-2026) covers 1,224 participating facilities across 15 counties, with facility contact details, coordinates, licensed capacity and county totals. The data is derived from the California Department of Health Care Services' public ArcGIS service. Downloadable CSV and JSON files, a data package, license and reproducible source script are available in the [companion open-data repository](https://github.com/asafichaki/california-alw-open-data).
+
+
+## US Healthcare Job Postings and Posted Pay
+
+[US healthcare job postings and posted pay](https://doi.org/10.5281/zenodo.23395728) is an open dataset (CC BY 4.0) of how many healthcare jobs are open by kind of job and employer, and the hourly pay employers post, read from the career sites of 270 US hospitals and health systems. CSV files and a README are on Zenodo. The same data is served as a free JSON and CSV API with an OpenAPI spec by [CareJobs.Now](https://carejobs.now/data).
