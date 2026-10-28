@@ -52,6 +52,12 @@ Airport codes from around the world:
 
 [core/airport-codes](https://datahub.io/core/airport-codes)
 
+### Broker symbol aliases
+
+The names forex and CFD brokers give the same instrument (XAUUSD, GOLD, XAUUSDm) and the suffixes they add; CC BY 4.0, CSV and JSON:
+
+[Broker Symbol Aliases](https://trepeat.com/symbol-finder)
+
 ### Country codes
 
 Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others:
