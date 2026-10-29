@@ -47,6 +47,7 @@ _Where's the open football data?_
 - [llimllib/soccerdata :octocat:](https://github.com/llimllib/soccerdata) - a collection of soccer results
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
+- [TipsAudit football predictions with closing odds](https://doi.org/10.5281/zenodo.23683501) - 7,390 matches in 84 competitions (June–October 2026, updated monthly): Pinnacle 1X2 prices before kick-off and at the close, bookmaker margins and 1X2 results; CSV, CC BY 4.0 ([Kaggle](https://www.kaggle.com/datasets/tipsaudit/football-predictions-with-closing-odds-and-margins))
 
 ## UEFA Coefficients
 
