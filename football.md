@@ -47,6 +47,7 @@ _Where's the open football data?_
 - [llimllib/soccerdata :octocat:](https://github.com/llimllib/soccerdata) - a collection of soccer results
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
+- [UK and Irish bookmaker prices: a sample snapshot :octocat:](https://github.com/oddsrelay/sample-data) - one snapshot of pre-match prices from UK and Irish bookmakers, football among other sports, as CSV and JSON with a data dictionary, CC BY 4.0, read from the OddsRelay odds API ([docs](https://oddsrelay.io/docs))
 
 ## UEFA Coefficients
 
