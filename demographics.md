@@ -29,3 +29,9 @@ The population data starts from -1000000 BC to 1990 with the average number of p
 Population growth estimates and projections:
 
 [core/population-growth-estimates-and-projections](https://datahub.io/core/population-growth-estimates-and-projections)
+
+## Historical Genealogy (Human Lineage)
+
+Open genealogical dataset of 2.7 million deceased historical people with 480k parent-child and 135k couple relationships, birth and death dates and places, and Wikidata/VIAF/GND identifiers (GEDCOM-X JSON Lines, CC BY-SA 4.0); useful for historical demography and kinship research:
+
+[Human Lineage Open Genealogical Dataset](https://doi.org/10.5281/zenodo.23284943)
