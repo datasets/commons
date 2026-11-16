@@ -47,6 +47,7 @@ _Where's the open football data?_
 - [llimllib/soccerdata :octocat:](https://github.com/llimllib/soccerdata) - a collection of soccer results
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
+- [European Football Draws and Home Advantage, 2020–24](https://github.com/gimlak/european-football-home-advantage) - CC0 CSVs with 7,230 full-time results and reproducible home-win, draw and away-win summaries across 20 league-seasons in five European leagues. Derived from OpenFootball.
 
 ## UEFA Coefficients
 
